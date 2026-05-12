@@ -124,19 +124,3 @@ kbeauty2/
 │   └── vite.config.ts
 └── README.md
 ```
-
-## Points clés pour l'entretien
-
-- **Structure clean** : Séparation claire entre backend et frontend
-- **Tests** : 100% de couverture sur les controllers et routes backend
-- **TypeScript** : Typage strict pour une meilleure maintenabilité
-- **Authentification sécurisée** : Mots de passe hashés avec bcrypt, tokens JWT
-- **Documentation complète** : Swagger pour l'API, README détaillé
-
-## Améliorations possibles
-
-- Intégration complète DocuSign API
-- Gestion des réservations
-- Intégration PDFKit pour la génération de certificats
-- CI/CD avec GitHub Actions
-- Plus de tests E2E avec Playwright
